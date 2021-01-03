@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "테스트 1"
+title:  "테스트"
 date:   2021-01-03
 description: 설명
 ---
