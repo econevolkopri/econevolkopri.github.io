@@ -18,13 +18,13 @@ navigation:
   - title: Home
     url: /index.html
   - title: Research
-    url: /about
+    url: /research
   - title: Members
-    url: /contact
+    url: /members
   - title: Publications
-    url: /contact
+    url: /publications
   - title: Gallery
-    url: /contact
+    url: /gallery
   - title: Contact
     url: /contact
 
