@@ -1,10 +1,6 @@
-![preview Long Haul](/preview.jpg)
+This website based on source codes from [https://github.com/brianmaierjr/long-haul]
 
-Long Haul is a minimal jekyll theme built with SASS / GULP / BROWSERSYNC / AUTOPREFIXER and focuses on long form blog posts. It is meant to be used as a starting point for a jekyll blog/website.
-
-If you really enjoy Long Haul and want to give me credit somewhere on the internet send or tweet out your experience with Long Haul and tag me [@brianmaierjr](https://twitter.com/brianmaierjr).
-
-#### [View Demo](http://brianmaierjr.com/long-haul)
+If you interested in this template website, you can use all this codes on this git-repository.
 
 ## Features
 
