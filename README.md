@@ -2,6 +2,8 @@ This website based on source codes from [https://github.com/brianmaierjr/long-ha
 
 If you interested in this template website, you can use all this codes on this git-repository.
 
+Excerpt from brianmaierjr.com/long-haul ; 
+
 ## Features
 
 - Minimal, Type Focused Design
