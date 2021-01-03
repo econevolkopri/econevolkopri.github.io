@@ -17,7 +17,7 @@ paginate: 3
 navigation:
   - title: Home
     url: /index.html
-  - title: About & Contact
+  - title: Research
     url: /about
   - title: Members
     url: /contact
@@ -25,7 +25,7 @@ navigation:
     url: /contact
   - title: News
     url: /contact
-  - title: Gallery
+  - title: Contact
     url: /contact
 
 social:
