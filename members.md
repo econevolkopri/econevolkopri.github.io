@@ -17,6 +17,5 @@ title: Members
     <li>연구 주제 : NULL</li>
     <li>연락처 : NULL</li>
   	  	</ul> 
->
 
 </div>
