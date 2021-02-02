@@ -2,27 +2,23 @@
 layout: default
 title: Members
 ---
+<div class="post">
+	<h1 class="pageTitle"> Members </h1>
+		<ul> 
+		
+    <li><img src=" /assets/img/touring.jpg" style="width: auto; height: 200px" align="left"  border="2"> 
+    <br clear "left> "Name : " 
+    <br> "Department : " 
+    <br> "Education : "
+    <hr>
+  
+  	</ul> 
+  		
+    <li><img src=" /assets/img/touring.jpg" style="width: auto; height: 200px" align="left"  border="2"> 
+    <br clear "left> "Name : " 
+    <br> "Department : " 
+    <br> "Education : "
+    <hr>
 
-<div class="members mb-4">
-  <div class="row">
-    {% for person in site.data.members.PI %}
-      {% include_relative members.html %}
-    {% endfor %}
-
-    <div class="col-md-6 offset-md-6 spacer"></div>
-
-    {% for person in site.data.members.Members %}
-      {% include_relative members.html %}
-    {% endfor %}
-  </div>
 </div>
 
-<h3>Past Lab Members</h3>
-
-<div class="members mb-4">
-  <div class="row">
-  {% for person in site.data.members.Past %}
-    {% include_relative members.html %}
-  {% endfor %}
-  </div>
-</div>
