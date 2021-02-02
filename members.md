@@ -5,11 +5,11 @@ title: Members
 <div class="post">
 	<h1 class="pageTitle"> Members </h1>
 		<ul> 
-		<li><img src=" /assets/img/touring.jpg" style="width: auto; height: 200px" align="left"  border="2"> 
+		<ul><img src=" /assets/img/touring.jpg" style="width: auto; height: 200px" align="left"  border="2"> 
     		<br clear "left> "Name : " 
  		   <br> "Department : "  <br> "Education : "   <hr>
 		</ul> 
-    <li><img src=" /assets/img/touring.jpg" style="width: auto; height: 200px" align="left"  border="2"> 
+    <ul><img src=" /assets/img/touring.jpg" style="width: auto; height: 200px" align="left"  border="2"> 
     <br clear "left> "Name : " 
     <br> "Department : " 
     <br> "Education : "
