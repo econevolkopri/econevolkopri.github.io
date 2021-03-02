@@ -26,7 +26,7 @@ title: Members
 		 <br>
 		 <br clear="left">
 		 <hr>	
-	<img src="{{ '/assets/img/Cute Weddell Seal.jpg' | prepend: site.baseurl }}" alt="" style="width: auto; height: 200px" align="middle"  border="2" vspace="30" hspace="30"> " My major is environmental science & ecological engineering, and I'm interested in animal's intestinal microbiome, especially about Polar animals. Through various analysis methods, I would like to explore the intestinal microbiome according to their surroudings environment and their effects on their behavior. "  <br clear="left"> Ji Yeon Cheon  <br> Undergraduate student (Internship) <br> jiyeoncheon@kopri.re.kr  <br> 
+	<img src="{{ '/assets/img/Cute Weddell Seal.jpg' | prepend: site.baseurl }}" alt="" style="width: auto; height: 200px" align="middle"  border="2" vspace="30" hspace="30"> " My major is environmental science & ecological engineering, and I'm interested in animal's intestinal microbiome, especially about Polar animals. Through various analysis methods, I would like to explore the intestinal microbiome according to their surroudings environment and their effects on their behavior. "  <br clear="left"> Ji Yeon Cheon  <br> Undergraduate student & Internship <br> jiyeoncheon@kopri.re.kr  <br> 
 		 <br>
 		 <br clear="left">
 		 <hr>	
