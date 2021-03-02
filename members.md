@@ -14,7 +14,7 @@ title: Members
 		 <br>
 		 <br clear="left">
 		 <hr>
-	<img src="{{ '/assets/img/pic_hjchung.heic' | prepend: site.baseurl }}" alt="" style="width: auto; height: 200px" align="left"  border="2" vspace="30" hspace="30"><p><br><br>" Integrated course, Behavioural Ecology, Football lover and I'm the man from 'Busan'. "</p><br clear="left"> Hyun Jae Chung  <br> Graduate student (Ph.D. Course) <br> chung.hyunjae@kopri.re.kr  <br> 
+	<img src="{{ '/assets/img/pic_hjchung.heic' | prepend: site.baseurl }}" alt="" style="width: auto; height: 200px" align="left"  border="2" vspace="30" hspace="30"><p><br><br>" I'm interested in behaviour ecology of polar animals and how they respond to climate change. I'm using bio-logging and GIS to answer the questions. '. "</p><br clear="left"> Hyun Jae Chung  <br> Graduate student (Ph.D. Course) <br> chung.hyunjae@kopri.re.kr  <br> 
 		 <br>
 		 <br clear="left">
 		 <hr>
