@@ -10,7 +10,7 @@ title: Members
 		 <br>
 		 <br clear="left">
 		 <hr>
-	<img src="{{ '/assets/img/pic_mjpark2.jpg' | prepend: site.baseurl }}" alt="" style="width: auto; height: 200px" align="middle"  border="2" vspace="30" hspace="30"> <p>" I focused on the Arctic wildlife remote sensing using drones during master's degree. I recently started a doctorate and now I am working on the muskox genome project. <br>Further interests are its population dynamics and evolutionary history/process of other polar animals. " </p> <br clear="left"> Mi Jin Park  <br> Graduate student (Ph.D. Course) <br> mijin.park@kopri.re.kr  <br> 
+	<img src="{{ '/assets/img/pic_mjpark2.jpg' | prepend: site.baseurl }}" alt="" style="width: auto; height: 200px" align="middle"  border="2" vspace="30" hspace="30"> <p>" I focused on the Arctic wildlife remote sensing using drones during master's degree. I recently started a doctorate and now I am working on the muskox genome project. Further interests are its population dynamics and evolutionary history/process of other polar animals. " </p> <br clear="left"> Mi Jin Park  <br> Graduate student (Ph.D. Course) <br> mijin.park@kopri.re.kr  <br> 
 		 <br>
 		 <br clear="left">
 		 <hr>
