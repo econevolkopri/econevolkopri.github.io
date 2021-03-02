@@ -8,7 +8,7 @@ title: Members
 		<br> email : joon728@kopri.re.kr    <br>
 		<br clear="left">
 		<hr>
-	<img src="{{ '/assets/img/pic_shim.jpg' | prepend: site.baseurl }}" alt="" style="width: auto; height: 200px" align="left"  border="2" vspace="30" hspace="30">  Name : Se Hyuk Im  <br> <br> I'm interested in evolutionary process through interaction between antarctic marine mammals and environmental chracteristics and their behavioral changes. 
+	<img src="{{ '/assets/img/pic_shim.jpg' | prepend: site.baseurl }}" alt="" style="width: auto; height: 200px" align="left"  border="2" vspace="30" hspace="30">  Name : Se Hyuk Im  <br> I'm interested in evolutionary process through interaction between antarctic marine mammals and environmental chracteristics and their behavioral changes. 
 		 <br> email : alex0127@kopri.re.kr  <br>
 		 <br clear="left">
 		 <hr>
