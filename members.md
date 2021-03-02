@@ -26,15 +26,15 @@ title: Members
 		 <br>
 		 <br clear="left">
 		 <hr>	
-	<img src="{{ '/assets/img/Cute Weddell Seal.jpg' | prepend: site.baseurl }}" alt="" style="width: auto; height: 200px" align="left"  border="2" vspace="30" hspace="30"><p><br><br>  " My major is environmental science & ecological engineering, and I'm interested in animal's intestinal microbiome, especially about Polar animals. Through various analysis methods, I would like to explore the intestinal microbiome according to their surroudings environment and their effects on their behavior. " <p> <br clear="left"> Ji Yeon Cheon  <br> Undergraduate student & Internship <br> jiyeoncheon@kopri.re.kr  <br> 
+	<img src="{{ '/assets/img/Cute Weddell Seal.jpg' | prepend: site.baseurl }}" alt="" style="width: auto; height: 200px" align="left"  border="2" vspace="30" hspace="30"><p><br><br>  " My major is environmental science & ecological engineering, and I'm interested in animal's intestinal microbiome, especially about Polar animals. Through various analysis methods, I would like to explore the intestinal microbiome according to their surroudings environment and their effects on their behavior. " </p> <br clear="left"> Ji Yeon Cheon  <br> Undergraduate student & Internship <br> jiyeoncheon@kopri.re.kr  <br> 
 		 <br>
 		 <br clear="left">
 		 <hr>	
-	<img src="{{ '/assets/img/pic_ihkim2.jpg' | prepend: site.baseurl }}" alt="" style="width: auto; height: 200px" align="left"  border="2" vspace="30" hspace="30"> <p><br><br>" I'm interested in evolutionary process through interaction between antarctic marine mammals and environmental chracteristics and their behavioral changes. " <p><br clear="left"> Ik Ho Kim  <br> Graduate student (Ph.D. Course) <br> eco0311@kopri.re.kr  <br> 
+	<img src="{{ '/assets/img/pic_ihkim2.jpg' | prepend: site.baseurl }}" alt="" style="width: auto; height: 200px" align="left"  border="2" vspace="30" hspace="30"> <p><br><br>" I'm interested in evolutionary process through interaction between antarctic marine mammals and environmental chracteristics and their behavioral changes. " </p><br clear="left"> Ik Ho Kim  <br> Graduate student (Ph.D. Course) <br> eco0311@kopri.re.kr  <br> 
 		 <br>
 		 <br clear="left">
 		 <hr>	
-	<img src="{{ '/assets/img/pic_jkpark2.jpeg' | prepend: site.baseurl }}" alt="" style="width: auto; height: 200px" align="left"  border="2" vspace="30" hspace="30"><p><br><br> " I'm interested in the behavior ecology about Antarctic animal, especially penguin and seal. Now, i research about Weddell seal by bio-logging as a member of the overwintering research team at the Jang-Bogo Station, Antarctica. " <p><br clear="left"> Ji kang Park  <br> Graduate student (M.S. Course) & Antarctic overwintering research crew (Jang-bogo Station)  <br> parkjk9219@kopri.re.kr  <br> 
+	<img src="{{ '/assets/img/pic_jkpark2.jpeg' | prepend: site.baseurl }}" alt="" style="width: auto; height: 200px" align="left"  border="2" vspace="30" hspace="30"><p><br><br> " I'm interested in the behavior ecology about Antarctic animal, especially penguin and seal. Now, i research about Weddell seal by bio-logging as a member of the overwintering research team at the Jang-Bogo Station, Antarctica. " </p><br clear="left"> Ji kang Park  <br> Graduate student (M.S. Course) & Antarctic overwintering research crew (Jang-bogo Station)  <br> parkjk9219@kopri.re.kr  <br> 
 		 <br>
 		 <br clear="left">
 		 <hr>	
