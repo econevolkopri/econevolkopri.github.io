@@ -30,7 +30,7 @@ title: Members
 		 <br>
 		 <br clear="left">
 		 <hr>	
-	<img src="{{ '/assets/img/pic_ihkim2.jpg' | prepend: site.baseurl }}" alt="" style="width: auto; height: 200px" align="middle"  border="2" vspace="30" hspace="30"> <p> " I'm interested in evolutionary process <br> through interaction between antarctic marine mammals and environmental chracteristics and their behavioral changes. " </p> <br clear="left"> Ik Ho Kim  <br> Graduate student (Ph.D. Course) <br> eco0311@kopri.re.kr  <br> 
+	<img src="{{ '/assets/img/pic_ihkim2.jpg' | prepend: site.baseurl }}" alt="" style="width: auto; height: 200px" align="middle"  border="2" vspace="30" hspace="30"> <p> " I'm interested in evolutionary process through interaction between antarctic marine mammals and environmental chracteristics and their behavioral changes. " </p> <br clear="left"> Ik Ho Kim  <br> Graduate student (Ph.D. Course) <br> eco0311@kopri.re.kr  <br> 
 		 <br>
 		 <br clear="left">
 		 <hr>	
