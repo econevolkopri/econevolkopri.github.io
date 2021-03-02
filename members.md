@@ -18,7 +18,7 @@ title: Members
 		 <br>
 		 <br clear="left">
 		 <hr>
-	<img src="{{ '/assets/img/pic_jclee.jpg' | prepend: site.baseurl }}" alt="" style="width: auto; height: 200px" align="middle"  border="2" vspace="30" hspace="30"> " I like to observe something. I'm interested in behavioral changes of animals from environmental changes. Now, i'm studying migration and habitat use of ducks.  "  <br clear="left"> Jong Chan Lee  <br> Graduate student (M.S. Course) <br> chani3218@kopri.re.kr  <br> 
+	<img src="{{ '/assets/img/pic_jclee.jpg' | prepend: site.baseurl }}" alt="" style="width: auto; height: 200px" align="middle"  border="2" vspace="30" hspace="30"> " I like to observe animal behavior. I'm interested in behavioral changes of animals from environmental changes. Now, i'm studying migration and habitat use of ducks.  "  <br clear="left"> Jong Chan Lee  <br> Graduate student (M.S. Course) <br> chani3218@kopri.re.kr  <br> 
 		 <br>
 		 <br clear="left">
 		 <hr>
