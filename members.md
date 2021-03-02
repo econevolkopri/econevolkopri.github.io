@@ -34,7 +34,7 @@ title: Members
 		 <br>
 		 <br clear="left">
 		 <hr>	
-	<img src="{{ '/assets/img/pic_jkpark2.jpg' | prepend: site.baseurl }}" alt="" style="width: auto; height: 200px" align="middle"  border="2" vspace="30" hspace="30"> <p> " I'm interested in evolutionary process <br> through interaction between antarctic marine mammals and environmental chracteristics and their behavioral changes. " </p> <br clear="left"> Ji kang Park  <br> Graduate student (M.S. Course) & Antarctic over-winter crew (Jang-bogo Station)  <br> eco0311@kopri.re.kr  <br> 
+	<img src="{{ '/assets/img/pic_jkpark2.jpeg' | prepend: site.baseurl }}" alt="" style="width: auto; height: 200px" align="middle"  border="2" vspace="30" hspace="30"> <p> " I'm interested in evolutionary process <br> through interaction between antarctic marine mammals and environmental chracteristics and their behavioral changes. " </p> <br clear="left"> Ji kang Park  <br> Graduate student (M.S. Course) & Antarctic over-winter crew (Jang-bogo Station)  <br> eco0311@kopri.re.kr  <br> 
 		 <br>
 		 <br clear="left">
 		 <hr>	
