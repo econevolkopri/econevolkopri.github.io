@@ -1,6 +1,5 @@
-title: Ecology and Evolution Laboratory KOPRI
-description: Ecology and Evolution Laboratory from Korea Research Institute
-
+title: Ecology and Evolution Laboratory
+description: Ecology and Evolution Laboratory
 url: http://econevolkopri.github.io/
 baseurl: "/"
 paginate_path: "blog/page:num/"
