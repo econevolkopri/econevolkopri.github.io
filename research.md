@@ -3,7 +3,7 @@ layout: default
 title: Research
 ---
 
-<div class="post" style='float:left;'>
+<div class="post">
 	<h1 class="pageTitle"> Research </h1>
 	<img src="{{ '/assets/img/Cute Weddell Seal.jpg' | prepend: site.baseurl }}" alt="">
 	<hr>
@@ -18,7 +18,4 @@ title: Research
 	</ul>
 	<hr>
 
-</div>
-<div class="post" style='display:inline-block;'> 
-  <h1> okay </h1>
 </div>
