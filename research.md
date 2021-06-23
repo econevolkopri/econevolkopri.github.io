@@ -14,9 +14,8 @@ title: Research
   		<li>극지 동물 분포 및 번식 모니터링 Monitoring of the animal distribution and breeding status
 			- 위성, 무인기 영상 등을 활용한 동물 분포 및 번식 모니터링 </li>
   		<li>극한지 적응 연구 Adaptions to extreme conditions     
-			- 극지 동물의 극한지 적응 메커니즘 연구</li>
- 
-  	  	</ul>
+			- 극지 동물의 극한지 적응 메커니즘 연구</li> 
+	</ul>
 	<hr>
 	<h2>				 이  원  영 Won young Lee			 </hr2>
 	<hr>
