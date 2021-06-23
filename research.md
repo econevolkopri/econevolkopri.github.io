@@ -19,6 +19,6 @@ title: Research
 	<hr>
 
 </div>
-<div class="post" style="float:right;"> 
+<div class="post" style='display:inline-block;'> 
   <h1> okay </h1>
 </div>
