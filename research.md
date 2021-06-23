@@ -17,7 +17,7 @@ title: Research
 			- 극지 동물의 극한지 적응 메커니즘 연구</li> 
 	</ul>
 	<hr>
-	<h2>				 이  원  영 Won young Lee			 </hr2>
+	<h2>				 이  원  영 Won young Lee			 </h2>
 	<hr>
 	<h2> 경력 </h2>
 		<ul>
