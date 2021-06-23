@@ -40,7 +40,7 @@ title: Members
 	<hr>
 	 <img src="{{ '/assets/img/pic_hjcho.jpg' | prepend: site.baseurl }}" alt="" style="width: auto; height: 300px" align="left"  border="2"  vspace="30" hspace="30"> <p><br><br>  " I’m interested in the Arctic and Antarctic animal microbiotas and how it interacts with vertebrate evolution. Also, I have special interest in the Avian microbiome by using bioinformatic tools to answer the questions. " </p> <br clear="left"> Hyun Jun Cho, Ph.D. <br> Post-doctoral researcher <br> joon728@kopri.re.kr  <br> <br clear="left">
 	<hr>
-	<img src="{{ '/assets/img/pic_ihkim2.jpg' | prepend: site.baseurl }}" alt="" style="width: auto; height: 300px" align="left"  border="2" vspace="30" hspace="30"> <p><br><br>" I'm interested in evolutionary process through interaction between antarctic marine mammals and environmental chracteristics and their behavioral changes. " </p><br clear="left"> Ik Ho Kim  <br> Graduate student (Ph.D. Course) <br> eco0311@kopri.re.kr  <br> 
+	<img src="{{ '/assets/img/pic_ihkim2.jpg' | prepend: site.baseurl }}" alt="" style="width: auto; height: 300px" align="left"  border="2" vspace="30" hspace="30"> <p><br><br>" I'm interested in evolutionary process through interaction between antarctic marine mammals and environmental chracteristics and their behavioral changes. " </p><br clear="left"> Ik Ho Kim  <br> MS. student <br> eco0311@kopri.re.kr  <br> 
 		 <br>
 		 <br clear="left">
 	</ul>
