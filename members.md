@@ -4,7 +4,7 @@ title: Members
 ---
 <div class="post">
 	<h1 class="pageTitle"> Members </h1>
-	<ul> <img src="{{ '/assets/img/pic_hjcho.jpg' | prepend: site.baseurl }}" alt="" style="width: auto; height: 300px" align="left"  border="2"  vspace="30" hspace="30"> <p><br><br>  " I’m interested in the Arctic and Antarctic animal microbiotas and how it interacts with vertebrate evolution. Also, I have special interest in the Avian microbiome by using bioinformatic tools to answer the questions. " </p> <br clear="left"> Hyun Jun Cho, Ph.D. <br> Post-doctoral researcher <br> joon728@kopri.re.kr  <br> <br> 
+	<ul>
 		<hr>
 		<img src="{{ '/assets/img/pic_shim2.jpeg' | prepend: site.baseurl }}" alt="" style="width: auto; height: 300px" align="left"  border="2" vspace="30" hspace="30"> <p><br><br> " I'm interested in evolutionary process through interaction between antarctic marine mammals and  environmental chracteristics and their behavioral changes. " </p> <br clear="left"> Se Hyuk Im  <br> Graduate student (Ph.D. Course) <br> alex0127@kopri.re.kr  <br> 
 		 <br>
@@ -30,14 +30,19 @@ title: Members
 		 <br>
 		 <br clear="left">
 		 <hr>	
-	<img src="{{ '/assets/img/pic_ihkim2.jpg' | prepend: site.baseurl }}" alt="" style="width: auto; height: 300px" align="left"  border="2" vspace="30" hspace="30"> <p><br><br>" I'm interested in evolutionary process through interaction between antarctic marine mammals and environmental chracteristics and their behavioral changes. " </p><br clear="left"> Ik Ho Kim  <br> Graduate student (Ph.D. Course) <br> eco0311@kopri.re.kr  <br> 
-		 <br>
-		 <br clear="left">
-		 <hr>	
 	<img src="{{ '/assets/img/pic_jkpark2.jpeg' | prepend: site.baseurl }}" alt="" style="width: auto; height: 300px" align="left"  border="2" vspace="30" hspace="30"><p><br><br> " I'm interested in the behavior ecology about Antarctic animal, especially penguin and seal. Now, i research about Weddell seal by bio-logging as a member of the overwintering research team at the Jang-Bogo Station, Antarctica. " </p><br clear="left"> Ji kang Park  <br> Graduate student (M.S. Course) & Antarctic overwintering research crew (Jang-bogo Station)  <br> parkjk9219@kopri.re.kr  <br> 
 		 <br>
 		 <br clear="left">
 		 <hr>	
-	</ul>	
+	</ul>
+	<h1 class="pageTitle"> Alumni </h1>
+	<ul>
+	<hr>
+	 <img src="{{ '/assets/img/pic_hjcho.jpg' | prepend: site.baseurl }}" alt="" style="width: auto; height: 300px" align="left"  border="2"  vspace="30" hspace="30"> <p><br><br>  " I’m interested in the Arctic and Antarctic animal microbiotas and how it interacts with vertebrate evolution. Also, I have special interest in the Avian microbiome by using bioinformatic tools to answer the questions. " </p> <br clear="left"> Hyun Jun Cho, Ph.D. <br> Post-doctoral researcher <br> joon728@kopri.re.kr  <br> <br clear="left">
+	<hr>
+	<img src="{{ '/assets/img/pic_ihkim2.jpg' | prepend: site.baseurl }}" alt="" style="width: auto; height: 300px" align="left"  border="2" vspace="30" hspace="30"> <p><br><br>" I'm interested in evolutionary process through interaction between antarctic marine mammals and environmental chracteristics and their behavioral changes. " </p><br clear="left"> Ik Ho Kim  <br> Graduate student (Ph.D. Course) <br> eco0311@kopri.re.kr  <br> 
+		 <br>
+		 <br clear="left">
+	</ul>
 		</div>
 
